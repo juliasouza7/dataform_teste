@@ -1,0 +1,9 @@
+{
+    "name": "my-dataform-project",
+    "version": "1.0.0",
+    "dependencies": {
+      "dataform": "^1.11.0",
+      "oracledb": "^5.2.0"
+    }
+  }
+  

@@ -1,0 +1,8 @@
+{
+  "projectConfig": {
+    "name": "my-dataform-project",
+    "schema": "my_oracle_schema",
+    "warehouse": "my_data_warehouse",
+    "defaultDatabase": "oracle"
+  }
+}
